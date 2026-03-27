@@ -1,0 +1,5 @@
+audio_0000.wav|hello world
+audio_0001.wav|this is a test
+audio_0002.wav|speech recognition
+audio_0003.wav|machine learning
+audio_0004.wav|deep neural networks
