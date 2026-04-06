@@ -1,6 +1,6 @@
 # Mamba-Whisper ASR
 
-A State Space Model (SSM) for Automatic Speech Recognition, inspired by Mamba and Whisper architectures.
+A State Space Model (SSM) for Automatic Speech Recognition, inspired by Mamba and Whisper architectures - an attempt by OpenCode/AI. This model is work in progress and not yet ready to train/test with a benchmark dataset. 
 
 ## Overview
 
